@@ -40,3 +40,6 @@ You need: A Firebase Database account and API, replace your credentials inside t
 ## Acknowledgments
 
 - Shoutout to Code Chrysalis Bootcamp Staff for their encouragement and guidance.
+
+## Changelog:
+Updated Firestore settings 13-Jan-2025
